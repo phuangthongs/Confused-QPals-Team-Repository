@@ -52,8 +52,13 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
+Tornadoes are one of the most dangerous natural disasters, leading to significant fatalities, injuries, and architectural damage worldwide. Advancements in tornado prediction have introduced various technologies, with machine learning models as one of the most effective method of climate prediction. In this work, we wish to enhance the power of machine learning with quantum computing, creating a quantum machine learning model that could increase prediction accuracy of the model. With a focus on minimization of tornado damages, we created a classical neural network model and quantum neural network model in order to compare the efficiency of the quantum model to its classical counterpart. The results show that _____________. Thus, it is considerable (or not considerable) to further improve machine learning models with the implementation of quantum computing.
+
+Our repository includes:
+- The paper of our project
+- Code for classical neural network
+- Code for quantum neural network
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
