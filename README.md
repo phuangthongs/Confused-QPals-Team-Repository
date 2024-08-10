@@ -60,7 +60,7 @@ Our repository includes:
 - Presentation slideshow
 - Code for classical neural network
 - Code for quantum neural network
-- Dataset
+- Dataset from Storm Prediction Center [link](https://www.spc.noaa.gov/wcm/)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
